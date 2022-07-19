@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshay6907
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning dsa in c++ and android dvelopment in native
-- 💞️ I’m looking to contribute on some open source
+- 💞️ I’m looking to contribute in some open source
 - 📫 How to reach me ...
 
 <!---
