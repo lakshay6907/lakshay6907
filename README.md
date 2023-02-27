@@ -9,6 +9,8 @@
 - 👯 Looking to collaborate on open-source and hackathons.
 - 💬 Ask me about Python and C++ programming, will be happy to help.
 - ⚡ Fun fact: Always curious to learn new things.
+
+[![@laksay6907's Holopin Board](https://holopin.me/lakshay6907)](https://holopin.io/@lakshay6907)
 <!---
 lakshay6907/lakshay6907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
